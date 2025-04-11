@@ -1,0 +1,5 @@
+Tipos de Relacionamento:
+
+- Um para Um (1 - 1)
+- Um para Muitos (1 - N)
+- Muitos para Muitos (N - N)
